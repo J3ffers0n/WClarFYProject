@@ -1,3 +1,5 @@
+*Read this in other languages: [English](README-EN_US.md).*
+
 # WClarFYProject
 
 ## Conteúdo
