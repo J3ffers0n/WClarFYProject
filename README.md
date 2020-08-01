@@ -26,7 +26,7 @@
   A partir de tais mapas é possível ter previsões mais finas dentro de microrregiões.
   
 ## Feito Com
-Arduino, Raspberry, ESP32/ESP8266 e https://cloud.ibm.com/
+Arduino, Raspberry, ESP32/ESP8266, PHP, Javascript, MySQL e https://cloud.ibm.com/
 
 ## Fontes
   1. https://portal.inmet.gov.br/
