@@ -16,7 +16,7 @@
 <p align="justify"> The WClarifyProject aims to mitigate the impact climáte change causes through the democratization of the monitoring technologies and the aplication of intelligence on the collected data.</p>
 
 ## Demo Video
-[![Video](pitchen.png)](https://youtu.be/UIUmF7zgAuA)
+[![Video](pitchEn.png)](https://youtu.be/UIUmF7zgAuA)
 
 ## Long Description
   The project has low cost automatized climate monitoring unities built from Arduino, Raspberry and ESP32/ESP8266 that send data through USB, Wifi or mobile devices through Json to IBM Cloud and there they are processed by Deep Learning along with data from INPE and INMET, generating a whole new metereologic map.
