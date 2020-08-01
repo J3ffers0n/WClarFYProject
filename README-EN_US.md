@@ -22,7 +22,7 @@
   And from those maps it is possible to have finer forecasts inside micro regions.
     
 ## Built With
-Arduino, Raspberry, ESP32/ESP8266 e https://cloud.ibm.com/
+Arduino, Raspberry, ESP32/ESP8266, PHP, Javascript, MySQL e https://cloud.ibm.com/
 
 ## Sources
   1. https://portal.inmet.gov.br/
