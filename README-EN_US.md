@@ -6,7 +6,7 @@
 ## Content
 1. [Short Description](#Project-Description)
 1. [Demo Video](#Demo-Video)
-1. [Long Description](#Long Description)
+1. [Long Description](#Long-Description)
 1. [Built With](#Built-With)
 1. [Authors](#Authors)
 
