@@ -17,8 +17,8 @@
 <p align="justify"> O projeto WClarifyProject tem por objetivo mitigar os impactos das mudanças climáticas por meio da democratização das tecnologias de monitoramento e aplicação de inteligência sobre os dados coletados.</p>
 
 ## Vídeo Demonstrativo
-![Pitch](https://youtu.be/CT63t53ifUw)
-![AplicaçãoWeb](https://youtu.be/Md735D25Qos)
+[![Pitch](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/CT63t53ifUw)
+[![AplicaçãoWeb](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/Md735D25Qos)
 
 ## Detalhamento do Projeto
   O Projeto conta com unidades de monitoramento climáticas automatizadas de baixo custos feitas com Arduino, Raspberry e ESP32/ESP8266 que enviam dados através de USB Wifi ou celulares via JSON para o IBM Cloud e lá são processados por Deep Learning junto com dados do INPE e INMET gerando um novo mapa metereológico.
