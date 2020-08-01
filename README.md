@@ -1,3 +1,5 @@
+![WClarifyProject](WClarify.jpeg)
+
 *Read this in other languages: [English](README-EN_US.md).*
 
 # WClarFYProject
@@ -24,9 +26,9 @@
 Arduino, Raspberry, ESP32/ESP8266 e https://cloud.ibm.com/
 
 ## Fontes
-  https://portal.inmet.gov.br/
-  https://www.mdr.gov.br/ultimas-noticias/12560-mais-de-2-mil-alertas-de-desastres-naturais-ja-foram-emitidos-em-2020
-  https://meteorologia.incaper.es.gov.br/boletim-agrometeorologico
+  1. https://portal.inmet.gov.br/
+  1. https://www.mdr.gov.br/ultimas-noticias/12560-mais-de-2-mil-alertas-de-desastres-naturais-ja-foram-emitidos-em-2020
+  1. https://meteorologia.incaper.es.gov.br/boletim-agrometeorologico
   
 ## Autores
   André Macruz, Jefferson Balduíno, Juliano Gomes, Victor Rosetti
